@@ -16,3 +16,5 @@ Minimum Virtual Machine Requirements:
 * Network
   * 1 Gigabit connection
   * static IP
+
+v1.0
